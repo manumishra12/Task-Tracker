@@ -42,7 +42,8 @@ npm run server
 npm run build
 ```
 
-#Other Terminal Commands(Optional)
+### Other Terminal Commands(Optional)
+
 ```
 npm install -g json-server
 npm i -g serve
@@ -58,4 +59,4 @@ npm audit fix --force //if error
 ```
 Credits : Manu Mishra
 Instagram : _mishramanu_
-Contact : 8920429057```
+```
