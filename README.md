@@ -41,6 +41,17 @@ npm run server
 ```
 npm run build
 ```
+
+#Other Terminal Commands(Optional)
+```
+npm install -g json-server
+npm i -g serve
+npm rum server
+npm i react-router-dom
+
+npm audit fix --force //if error
+```
+
 <hr>
 
 ### Contact Details
