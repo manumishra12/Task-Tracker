@@ -15,6 +15,9 @@ React based Task Tracker using React JS and JSON Server as a backend work handli
 <br>
 <hr>
 
+<div float="right" width="400">
+  <img align="left" height="450" width="1200" src="2.jpeg">
+</div>
 
 
 
