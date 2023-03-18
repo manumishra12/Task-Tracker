@@ -12,12 +12,11 @@ React based Task Tracker using React JS and JSON Server as a backend work handli
 </p>
 
 <br>
-<br>
-<hr>
 
 <div float="right" width="400">
-  <img align="left" height="450" width="1200" src="2.jpeg">
+  <img align="left" height="550" width="400" src="Thumbnail.jpeg">
 </div>
+
 
 
 
@@ -44,6 +43,8 @@ npm run server
 ```
 npm run build
 ```
+<br>
+<hr>
 
 ### Other Terminal Commands(Optional)
 
